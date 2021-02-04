@@ -2,6 +2,7 @@
 An automation script for zoom meetings.
 
 ## Roadmap
+- [x] Schedule Integration
 - [ ] Windows Portability
 - [ ] Auto-Scrap Meeting ID
 
