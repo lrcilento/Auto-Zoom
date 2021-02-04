@@ -1,5 +1,5 @@
 # Auto-Zoom
-An automation script for zoom meetings.
+Fully automate you zoom meetings!
 
 ## Roadmap
 - [x] Schedule Integration
