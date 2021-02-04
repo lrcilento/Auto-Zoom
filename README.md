@@ -5,7 +5,7 @@ Automation script to attend zoom meetings.
 - [x] Schedule Integration
 - [ ] Windows Portability
 - [ ] Auto-Scrap Meeting ID
-- [ ] Variation in Join/Exit Times
+- [ ] Variation in Timers
 
 ## Instalation
 ```
