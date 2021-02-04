@@ -1,10 +1,11 @@
 # Auto-Zoom
-Fully automate you zoom meetings!
+Automation script to attend zoom meetings.
 
 ## Roadmap
 - [x] Schedule Integration
 - [ ] Windows Portability
 - [ ] Auto-Scrap Meeting ID
+- [ ] Variation in Join/Exit Times
 
 ## Instalation
 ```
